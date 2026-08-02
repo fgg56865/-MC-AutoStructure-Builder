@@ -19,7 +19,9 @@
     curl -s -O https://raw.githubusercontent.com/fgg56865/-MC-AutoStructure-Builder/main/main.py
 
 
-3    
+3    ls
+
+    4
     
     chmod +x install.sh
     ./install.sh
@@ -27,17 +29,4 @@
 FINAL RUN COMMAND:
     python main.py
 
- 
-[!] DISCLAIMER & SAFETY NOTICE:
-
-    - This tool is 100% safe, secure, and meant for educational/development purposes only.
-    
-    - Contains no malicious scripts or viruses.
-    
-    - If your browser or phone flags it as a "False Positive", simply click "Keep / Download anyway".
-
-[!] COPYRIGHT & LICENSE NOTICE:
-
-    - Protected under the MIT License.
-    
-    - Please do not misuse or copy without proper credit.
+ .
