@@ -19,7 +19,8 @@
     curl -s -O https://raw.githubusercontent.com/fgg56865/-MC-AutoStructure-Builder/main/main.py
 
 
-3    ls
+3    enter to ls command
+ls
 
     4
     
