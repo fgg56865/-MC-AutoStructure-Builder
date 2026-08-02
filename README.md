@@ -14,20 +14,20 @@
   
     
 
-[2] 
-
-    chmod +x install.sh
-    ./install.sh
-
-[3] DIRECT CURL COMMAND (For fetching script manually if needed):
+2  DIRECT CURL COMMAND (For fetching script manually if needed):
 
     curl -s -O https://raw.githubusercontent.com/fgg56865/-MC-AutoStructure-Builder/main/main.py
 
-[4] FINAL RUN COMMAND:
 
+3    
+    
+    chmod +x install.sh
+    ./install.sh
+
+FINAL RUN COMMAND:
     python main.py
 
-
+ 
 [!] DISCLAIMER & SAFETY NOTICE:
 
     - This tool is 100% safe, secure, and meant for educational/development purposes only.
